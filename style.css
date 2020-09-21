@@ -1,0 +1,35 @@
+body {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    text-align: justify;
+    background-color: #FDEBD0;
+    border-radius: 8px;
+    color: #D98880;
+}
+h1 {
+    color: #D98880;
+    background-color: #FDEBD0;
+    border-radius: 8px;
+}
+h2 {
+    color: #D98880;
+    background-color: #F6DED4;
+    border-radius: 8px;
+}
+main {
+    padding: 20px;
+}
+p {
+    text-align: left;
+}
+strong {
+    color: #AF3F3F ;
+}
+
+
